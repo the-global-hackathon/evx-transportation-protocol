@@ -1,6 +1,6 @@
 # evx-transportation-protocol
-# Electric Vehicle Experience - Transportation Protocol
-## Project Details 
+# Electric Vehicle Experience
+## Transportation Protocol - Project Details 
 
 * Dynamically calculate the best electric charging station from current location
 * Display maps view, including map markers overlays with 10 km radius

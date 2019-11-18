@@ -116,7 +116,7 @@ The Places (Search) API is a REST API that allows you to build applications wher
 
 ### Testing Custom Alexa Skills
 * [Alexa Developer Console - ASK Test](https://developer.amazon.com/alexa/console/ask/test/amzn1.ask.skill.74b4a3c1-eb8e-4558-9035-771fef754c2e/development/en_US/)
-
+- JSON schema definition for Alexa ASK interaction models
 ```javascript
 {
     "interactionModel": {

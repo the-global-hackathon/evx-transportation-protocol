@@ -35,11 +35,15 @@
 ### React Native - HERE API Location Provider 
 * [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
-### Vue.js - HERE Maps & Statitics Dashboard
+### Vue.js - HERE Maps
 * Vue.js Dashboard - HERE Maps & Location Services
   * [Github Project in Vue.js using HERE Maps, Routing & Geocoder](https://github.com/devfilipesales/Front-End-Test-for-Zetta)
   * [HERE Maps API for Javascript Examples](https://github.com/heremaps/maps-api-for-javascript-examples)
   * [Showing a HERE map with Vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
+
+### Vue.js - Material Dashboard
+* Vue Material Dashboard Github - https://github.com/creativetimofficial/vue-material-dashboard
+* Vue Material Dashboard Documentation - https://demos.creative-tim.com/vue-material-dashboard/documentation/
 
 ### HERE - Location Services Documentation
 * Maps - https://developer.here.com/documentation/maps/dev_guide/topics/quick-start.html

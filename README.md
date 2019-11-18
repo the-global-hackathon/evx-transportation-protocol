@@ -16,7 +16,9 @@
 * [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
 ### Vue.js Dashboard - Maps & Statitics
-* [Vue.js Dashboard, Maps & Location Services]
+* Vue.js Dashboard, Maps & Location Services
+* * [Project in Vue.js using Here Maps](https://github.com/devfilipesales/Front-End-Test-for-Zetta)
+* * [HERE Maps API for Javascript Examples](https://github.com/heremaps/maps-api-for-javascript-examples)
 
 ### HERE - Location Services 
 * Geocoder - https://developer.here.com/documentation/geocoder/dev_guide/topics/quick-start-geocode.html

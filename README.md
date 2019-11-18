@@ -15,6 +15,22 @@
    * Generate route between two locations & plotting coordinate markers on the map from current location within 10km.
      * Parse JSON request from HERE Places API by proximity, from current location.
      * Parse data from IoT enabled vehicles to get battery life percentage.
+
+#### Focus: In-Car Experience, Holistic Efficiency, Retail, Driver Time Saved
+
+#### The Problem: “Range Anxiety” “Time Saved” “Reduced Carbon Footprint”
+* For each hour of charging current EVs get approx 20-30 miles of range
+  * Miles are precious 
+  * Routing your journey is key to enjoying the EV experience
+  * Select the best EV Charger - charging may take many hours - plan accordingly with EVX score.
+
+#### Our Solution: EVX SCORE 
+* Scenario: EV operator is traveling I-5 “Electric Highway” for an 1,121 Mile Trip from LA to Portland.
+  * “Alexa - What is the most efficient place (EVX score) to charge & park”
+  * “Alexa - Show me a map of EV Chargers within a 10 km radius”
+    * EVX Score is based on the following criteria:
+     * Distance from location to routed destination 
+     * Distance from charger to charger
    
 #### What is the Transportation Protocol?
 

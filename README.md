@@ -30,7 +30,6 @@
 
 ### Technical Frameworks
 
-
 ### Amazon Alexa - Resources
 * [Amazon Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
 * [Amazon Alexa - Developer ASK CLI Intro](https://developer.amazon.com/docs/smapi/ask-cli-intro.html) 
@@ -47,18 +46,11 @@
 ### JavaScript 
 * [HERE Javascript to API Development Documentation](https://developer.here.com/develop/javascript-api) 
 
-#### React Native 
+### React Native - EVXS Location Provider 
 * [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
 #### Vue.js
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
- 
-Use cases for places search
-As an Alexa application developer, you may want to integrate a places search if you are building:
-
-- A restaurant reviewing application. Users can search for nearby restaurants and then write reviews about the restaurant.
-- A ridesharing application. A place can serve as an origin or destination point for the trip.
-- A tour guide application. The virtual tour guide can suggest landmarks to visit in the user's area.
 
 ### What is the Geocoder API?
 The Geocoder REST API enables developers to convert street addresses to geo-coordinates and vice-versa with forward geocoding, including landmarks, and reverse geocoding.

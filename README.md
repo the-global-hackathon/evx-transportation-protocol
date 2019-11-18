@@ -30,9 +30,9 @@
 
 ### Technical Frameworks
 
+
 ### Amazon Alexa - Resources
 * [Amazon Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
-* [Location Aware Alexa Skills Kit Services with HERE Location Services](http://tutorials.saas.awsmarketplace.here.com/tutorial/09-location-aware_alexa_skills#0)
 * [Amazon Alexa - Developer ASK CLI Intro](https://developer.amazon.com/docs/smapi/ask-cli-intro.html) 
 * [Amazon - Alexa Skills Kit CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
 
@@ -53,3 +53,26 @@
 #### Vue.js
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
  
+Use cases for places search
+As an Alexa application developer, you may want to integrate a places search if you are building:
+
+- A restaurant reviewing application. Users can search for nearby restaurants and then write reviews about the restaurant.
+- A ridesharing application. A place can serve as an origin or destination point for the trip.
+- A tour guide application. The virtual tour guide can suggest landmarks to visit in the user's area.
+
+### What is the Geocoder API?
+The Geocoder REST API enables developers to convert street addresses to geo-coordinates and vice-versa with forward geocoding, including landmarks, and reverse geocoding.
+
+The HERE Geocoder API is a REST API that allows you to:
+
+* Obtain coordinates for addresses
+* Obtain addresses or administrative areas for locations
+* Obtain coordinates for known landmarks.
+
+### What is the Places API?
+The Places (Search) API is a REST API that allows you to build applications where users can search for places and receive detailed information about selected places.
+
+What you'll need
+* a HERE Developer account from the AWS Marketplace for leveraging location APIs
+* an Amazon Web Services account to host your project code
+* an Amazon Alexa Developer account to configure your Alexa Skill

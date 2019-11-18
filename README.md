@@ -6,9 +6,9 @@
 * Display maps view, including map markers overlays with 10 km radius
 
 ### LA Auto Mobility Hackathon - Transportation Protocol
-> - HERE Location Services
-> - Amazon - Alexa Skills Kit (ASK)
-> - Amazon - AWS Lambda & IoT
+- HERE Location Services
+- Amazon - Alexa Skills Kit (ASK)
+- Amazon - AWS Lambda & IoT
 
 ### Transportation Protocol - Electric Vehicle Experience Score (EVXS)
 

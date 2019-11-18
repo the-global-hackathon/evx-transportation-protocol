@@ -1,5 +1,6 @@
 # evxs-transportation-protocol
-# Electric Vehicle Experience Score - Project Details 
+# Electric Vehicle Experience Score 
+## Project Details 
 
 * Dynamically calculate the best electric charging station from current location
 * Display maps view, including map markers overlays with 10 km radius

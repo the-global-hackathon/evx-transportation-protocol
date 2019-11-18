@@ -10,7 +10,7 @@
 - Amazon - [*Alexa Skills Kit (ASK)*](#amazon-alexa-skills-kit)
 - Amazon - [*AWS Lambda & IoT*](##amazon-aws-lambda)
 - EVXS - [*Electric Vehicle Experience Score](#electric-vehicle-experience-score-evxs)
-- Vue.js - [*HERE Maps API*](#
+- Vue.js - [*HERE Maps API*](#vuejs---here-maps--statitics-dashboard)
 
 ## Technical Frameworks 
 

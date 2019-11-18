@@ -1,44 +1,23 @@
-# evxs
-> - Electric Vehicle Experience Score
-> - HERE Location Services
-> - Amazon - Alexa Skills Kit
-> - AWS Lambda & IoT
-
-### EVX - Electric Vehicle Experience 
-
-#### Electric Vehicle Experience Score - Project Details 
+# evxs-transportation-protocol
+# Electric Vehicle Experience Score - Project Details 
 
 * Dynamically calculate the best electric charging station from current location
 * Display maps view, including map markers overlays with 10 km radius
 
-#### Routing & Navigation 
+### LA Auto Mobility Hackathon - Transportation Protocol
+> - HERE Location Services
+> - Amazon - Alexa Skills Kit
+> - AWS Lambda & IoT
 
-### HERE - Location Services
+### Transportation Protocol - Electric Vehicle Experience Score (EVXS)
 
-* HERE - Routing 
-* HERE - Places
-* HERE - Maps
-* HERE - Geocoding & Search
+### React Native - EVXS & HERE API Location Provider 
+* [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
-### Amazon - Alexa
+### Vue.js Dashboard - Maps & Statitics
+* [Vue.js Dashboard, Maps & Location Services]
 
-* Amazon Alexa Skills Kit
-* Amazon Alexa Voice Services
-
-## LA Auto Mobility Hackathon 
-
-### Technical Frameworks
-
-### Amazon Alexa - Resources
-* [Amazon Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
-* [Amazon Alexa - Developer ASK CLI Intro](https://developer.amazon.com/docs/smapi/ask-cli-intro.html) 
-* [Amazon - Alexa Skills Kit CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
-
-### Amazon Alexa Skills Kit 
-* AWS Lambda Execution Role ARN
-- arn:aws:iam::599877411882:role/AlexaHostedSkillLambdaRole
-* Alexa Skills ID
-- amzn1.ask.skill.74b4a3c1-eb8e-4558-9035-771fef754c2e
+## Technical Frameworks 
 
 ### HERE - Location Services 
 * Geocoder - https://developer.here.com/documentation/geocoder/dev_guide/topics/quick-start-geocode.html
@@ -47,11 +26,6 @@
 ### JavaScript 
 * [HERE Javascript to API Development Documentation](https://developer.here.com/develop/javascript-api) 
 * [HERE Maps API for Javascript Examples -  Github](https://github.com/heremaps/maps-api-for-javascript-examples)
-
-### React Native - EVXS Location Provider 
-* [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
-
-### Vue.js Dashboard - Maps & Statitics
 
 #### Vue.js
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
@@ -94,3 +68,15 @@ The Places (Search) API is a REST API that allows you to build applications wher
 * a HERE Developer account from the AWS Marketplace for leveraging location APIs
 * an Amazon Web Services account to host your project code
 * an Amazon Alexa Developer account to configure your Alexa Skill
+
+
+### Amazon Alexa - Resources
+* [Amazon Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
+* [Amazon Alexa - Developer ASK CLI Intro](https://developer.amazon.com/docs/smapi/ask-cli-intro.html) 
+* [Amazon - Alexa Skills Kit CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
+
+### Amazon Alexa Skills Kit 
+* AWS Lambda Execution Role ARN
+- arn:aws:iam::599877411882:role/AlexaHostedSkillLambdaRole
+* Alexa Skills ID
+- amzn1.ask.skill.74b4a3c1-eb8e-4558-9035-771fef754c2e

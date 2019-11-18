@@ -6,8 +6,8 @@
 
 ### LA Auto Mobility Hackathon - Transportation Protocol
 > - HERE Location Services
-> - Amazon - Alexa Skills Kit
-> - AWS Lambda & IoT
+> - Amazon - Alexa Skills Kit (ASK)
+> - Amazon - AWS Lambda & IoT
 
 ### Transportation Protocol - Electric Vehicle Experience Score (EVXS)
 
@@ -69,11 +69,11 @@ The Places (Search) API is a REST API that allows you to build applications wher
 * an Amazon Web Services account to host your project code
 * an Amazon Alexa Developer account to configure your Alexa Skill
 
-
 ### Amazon Alexa - Resources
 * [Amazon Alexa Skills Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
 * [Amazon Alexa - Developer ASK CLI Intro](https://developer.amazon.com/docs/smapi/ask-cli-intro.html) 
 * [Amazon - Alexa Skills Kit CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
+* [Amazon - Alexa Skills Kit SDK for NodeJS](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)
 
 ### Amazon Alexa Skills Kit 
 * AWS Lambda Execution Role ARN

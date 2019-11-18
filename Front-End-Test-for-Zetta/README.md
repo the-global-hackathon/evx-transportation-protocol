@@ -7,4 +7,4 @@ Project in Vue.js using Here Maps.
 
 3. npm run serve
 
-Ejoy!
+Enjoy!

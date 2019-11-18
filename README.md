@@ -12,7 +12,7 @@
 
 ## Technical Frameworks 
 
-### React Native - EVX & HERE API Location Provider 
+### React Native - HERE API Location Provider 
 * [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
 ### Vue.js Dashboard - HERE Maps & Statitics

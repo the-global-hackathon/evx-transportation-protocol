@@ -63,8 +63,16 @@
 #### HERE Maps API for Javascript
 These application credentials can be used to develop using the HERE Maps API for JavaScript (version 3.1 and higher) . You can generate up to two ApiKeys for authentication purposes and rotate them as required. Usage will be reported as one application.
 
-* Develop Javascript - https://developer.here.com/develop/javascript-api
-    * APP ID - VGg2uxMCZWd48RGowt7f
+* Use Android phone as tracking device
+  * Develop Javascript - https://developer.here.com/develop/javascript-api
+
+* Here are your device credentials:
+    * APP ID:
+         * VGg2uxMCZWd48RGowt7f
+    * Device ID:
+        * 950d5ed5-5c66-472f-8ef2-50b6e72a9806
+    * Device secret:
+        * vHz2bB3mQPC4owWsmNnMZVZCm-39PVykanwE5oDEqpQ
 
 #### REST & XYZ HUB API/CLI
 These application credentials can be used with HERE Location Services REST APIs , HERE XYZ Hub API and HERE CLI. These credentials also work with older versions of the HERE Maps API for JavaScript.

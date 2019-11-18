@@ -14,10 +14,11 @@ Electric Vehicle Experience Score
 
 ### HERE - Location Services
 
-* HERE Location Services - Routing 
-* HERE Location Services - Places
-* HERE Location Services - Maps
-* HERE Location Services - Traffic & Weather
+* HERE - Routing 
+* HERE - Places
+* HERE - Maps
+* HERE - Geocoding & Search
+* HERE - Traffic & Weather
 
 ### Amazon - Alexa
 

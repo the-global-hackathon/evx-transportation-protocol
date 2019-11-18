@@ -4,9 +4,9 @@
 > - Amazon - Alexa Skills Kit
 > - AWS Lambda & IoT
 
-### EVXS - Electric Vehicle Experience Score
+### EVX - Electric Vehicle Experience 
 
-#### EV Experience Score - Project Details 
+#### Electric Vehicle Experience Score - Project Details 
 
 * Dynamically calculate the best electric charging station from current location
 * Display maps view, including map markers overlays with 10 km radius
@@ -19,7 +19,6 @@
 * HERE - Places
 * HERE - Maps
 * HERE - Geocoding & Search
-* HERE - Traffic & Weather
 
 ### Amazon - Alexa
 

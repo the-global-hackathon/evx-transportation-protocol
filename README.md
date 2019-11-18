@@ -41,7 +41,7 @@
 ### LA Auto Mobility Hackathon - Transportation Protocol
 - HERE - [*Location Services*](#vuejs-dashboard---here-maps--statitics)
 - Amazon - [*Alexa Skills Kit (ASK)*](#amazon-alexa-skills-kit)
-- Amazon - [*AWS Lambda*](##amazon-aws-lambda)
+- Amazon - [*AWS Lambda*](#amazon-aws-lambda)
 - Vue.js - [*Vue.js Dashboard & HERE Maps*](#vuejs---here-maps--statitics-dashboard)
 - React Native - [*Automobility LA Hackathon*](#react-native---here-api-location-provider)
 - EVXS - [*Electric Vehicle Experience Score*](#electric-vehicle-experience-score-evxs)

@@ -9,8 +9,8 @@
 - HERE - [*Location Services*](#vuejs-dashboard---here-maps--statitics)
 - Amazon - [*Alexa Skills Kit (ASK)*](#amazon-alexa-skills-kit)
 - Amazon - [*AWS Lambda & IoT*](##amazon-aws-lambda)
-- Vue.js - [*HERE Maps API*](#vuejs---here-maps--statitics-dashboard)
-- React Native - [*Automobility LA Hackathon*]()
+- Vue.js - [*Vue.js Dashboard & HERE Maps*](#vuejs---here-maps--statitics-dashboard)
+- React Native - [*Automobility LA Hackathon*](#react-native---here-api-location-provider)
 - EVXS - [*Electric Vehicle Experience Score*](#electric-vehicle-experience-score-evxs)
 
 ## Technical Frameworks 

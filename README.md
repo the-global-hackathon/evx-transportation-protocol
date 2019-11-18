@@ -60,6 +60,7 @@
 ### Vue.js - Material Dashboard
 * [Vue Material Dashboard Github](https://github.com/creativetimofficial/vue-material-dashboard)
 * [Vue Material Dashboard Documentation](https://demos.creative-tim.com/vue-material-dashboard/documentation/)
+* [EVX Vue Material Dashboard](https://github.com/renatrazumov/evx-vue-material-dashboard)
 
 ### HERE - Location Services Documentation
 * Maps - https://developer.here.com/documentation/maps/dev_guide/topics/quick-start.html

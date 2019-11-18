@@ -2,7 +2,7 @@
 > - Electric Vehicle Experience Score
 > - HERE Location Services
 > - Amazon - Alexa Skills Kit
-> - AWS Lambda, IoT, 
+> - AWS Lambda & IoT
 
 ### EVXS - Electric Vehicle Experience Score
 

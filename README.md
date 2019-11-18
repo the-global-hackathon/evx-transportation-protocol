@@ -20,7 +20,7 @@
 
 #### The Problem: “Range Anxiety” “Time Saved” “Reduced Carbon Footprint”
 * For each hour of charging current EVs get approx 20-30 miles of range
-  * Miles are precious 
+  * Reducing Fuel Costs, Improved Range, Shorter Routes
   * Routing your journey is key to enjoying the EV experience
   * Select the best EV Charger - charging may take many hours - plan accordingly with EVX score.
 

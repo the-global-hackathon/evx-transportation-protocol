@@ -18,7 +18,6 @@
    
 #### What is the Transportation Protocol?
 
-  * Transportation Protocol 
   * Advanced location based services from current GPS location
   * Enable electric vehicles & autonomous vehicles to plan efficient routes.
   * Improving user experience by recommending routes & destinations for electric vehicles.

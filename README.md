@@ -42,8 +42,8 @@
   * [Showing a HERE map with Vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 
 ### Vue.js - Material Dashboard
-* Vue Material Dashboard Github - https://github.com/creativetimofficial/vue-material-dashboard
-* Vue Material Dashboard Documentation - https://demos.creative-tim.com/vue-material-dashboard/documentation/
+* [Vue Material Dashboard Github](https://github.com/creativetimofficial/vue-material-dashboard)
+* [Vue Material Dashboard Documentation](https://demos.creative-tim.com/vue-material-dashboard/documentation/)
 
 ### HERE - Location Services Documentation
 * Maps - https://developer.here.com/documentation/maps/dev_guide/topics/quick-start.html

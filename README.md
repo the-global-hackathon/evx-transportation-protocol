@@ -49,6 +49,9 @@
 ### React Native - EVXS Location Provider 
 * [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
+### Vue.js EVXS - Maps & Statitics Dashboards
+* 
+
 #### Vue.js
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 

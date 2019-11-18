@@ -8,8 +8,8 @@
 
 #### EV Experience Score - Project Details 
 
-
-### Routing to Locations
+* Dynamically calculate the best electric charging station from current location
+* Display maps view, including map markers overlays
 
 #### Routing & Navigation 
 

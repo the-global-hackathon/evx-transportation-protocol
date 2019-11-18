@@ -1,5 +1,5 @@
 # evx-transportation-protocol
-# Electric Vehicle Experience
+# Electric Vehicle Experience - EVX
 ## Transportation Protocol - Project Details 
 
 * Dynamically calculate the best electric charging station from current location

@@ -8,17 +8,20 @@
 ### LA Auto Mobility Hackathon - Transportation Protocol
 - HERE - [*Location Services*](#vuejs-dashboard---here-maps--statitics)
 - Amazon - [*Alexa Skills Kit (ASK)*](#amazon-alexa-skills-kit)
-- Amazon - [*AWS Lambda & IoT*](#go)
+- Amazon - [*AWS Lambda & IoT*](##amazon-aws-lambda)
+- EVXS - [*Electric Vehicle Experience Score](#electric-vehicle-experience-score-evxs)
+- Vue.js - [*HERE Maps API*](#
 
 ## Technical Frameworks 
 
 ### React Native - HERE API Location Provider 
 * [Automobility LA Hackathon - React Native / EXPO](https://github.com/DarrenRF/automobility-hackathon)
 
-### Vue.js Dashboard - HERE Maps & Statitics
-* Vue.js Dashboard, Maps & Location Services
-  * [Project in Vue.js using HERE Maps, Routing & Geocoder](https://github.com/devfilipesales/Front-End-Test-for-Zetta)
+### Vue.js - HERE Maps & Statitics Dashboard
+* Vue.js Dashboard - HERE Maps & Location Services
+  * [Github Project in Vue.js using HERE Maps, Routing & Geocoder](https://github.com/devfilipesales/Front-End-Test-for-Zetta)
   * [HERE Maps API for Javascript Examples](https://github.com/heremaps/maps-api-for-javascript-examples)
+  * [Showing a HERE map with Vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 
 ### HERE - Location Services Documentation
 * Maps - https://developer.here.com/documentation/maps/dev_guide/topics/quick-start.html
@@ -28,9 +31,6 @@
 #### HERE - API Developer Documentation
 * [HERE Javascript to API Development Documentation](https://developer.here.com/develop/javascript-api) 
 * [HERE Maps API for Javascript Examples -  Github](https://github.com/heremaps/maps-api-for-javascript-examples)
-
-#### Vue.js - HERE Map Documentation 
- * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 
 ### HERE Location Services
 

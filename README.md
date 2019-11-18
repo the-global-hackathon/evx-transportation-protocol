@@ -20,11 +20,12 @@
 
 #### The Problem: “Range Anxiety” “Time Saved” “Reduced Carbon Footprint”
 * For each hour of charging current EVs get approx 20-30 miles of range
-  * Reducing Fuel Costs, Improved Range, Shorter Routes
+  * Battery Range, Fuel Costs / Charge Cost, Duration of Charge Time
   * Routing your journey is key to enjoying the EV experience
-  * Select the best EV Charger - charging may take many hours - plan accordingly with EVX score.
-
+  * EV Charging may take many hours - long distance trips require multiple charges.
+  
 #### Our Solution: EVX SCORE 
+* Select the best EV Charger - charging takes hours - plan accordingly with EVX score.
 * Scenario: EV operator is traveling I-5 “Electric Highway” for an 1,121 Mile Trip from LA to Portland.
   * “Alexa - What is the most efficient place (EVX score) to charge & park”
   * “Alexa - Show me a map of EV Chargers within a 10 km radius”
@@ -33,7 +34,6 @@
      * Distance from charger to charger
    
 #### What is the Transportation Protocol?
-
   * Advanced location based services from current GPS location
   * Enable electric vehicles & autonomous vehicles to plan efficient routes.
   * Improving user experience by recommending routes & destinations for electric vehicles.

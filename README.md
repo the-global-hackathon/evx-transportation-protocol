@@ -56,10 +56,33 @@
 #### Vue.js
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 
+### HERE Location Services
+
+* Here Products - (geocoding/search, fleet telematics, map data, navigation, routing)
+    * https://www.here.com/products/automotive
+    * https://www.here.com/products/location-based-services
+    * https://www.here.com/products/mapping
+    * https://www.here.com/products/tracking-positioning-solutions
+    * https://www.here.com/products/traffic-solutions
+    * https://www.here.com/products/mobility-solutions
+        * Connecting the mobility world
+
+#### HERE Maps API for Javascript
+These application credentials can be used to develop using the HERE Maps API for JavaScript (version 3.1 and higher) . You can generate up to two ApiKeys for authentication purposes and rotate them as required. Usage will be reported as one application.
+
+* Develop Javascript - https://developer.here.com/develop/javascript-api
+    * APP ID - VGg2uxMCZWd48RGowt7f
+
+#### REST & XYZ HUB API/CLI
+These application credentials can be used with HERE Location Services REST APIs , HERE XYZ Hub API and HERE CLI. These credentials also work with older versions of the HERE Maps API for JavaScript.
+
+### HERE REST APIs
+Integrate powerful location features with a flexible and lightweight REST architecture
+
 ### What is the Geocoder API?
 The Geocoder REST API enables developers to convert street addresses to geo-coordinates and vice-versa with forward geocoding, including landmarks, and reverse geocoding.
 
-The HERE Geocoder API is a REST API that allows you to:
+##### The HERE Geocoder API is a REST API that allows you to:
 
 * Obtain coordinates for addresses
 * Obtain addresses or administrative areas for locations
@@ -68,7 +91,6 @@ The HERE Geocoder API is a REST API that allows you to:
 ### What is the Places API?
 The Places (Search) API is a REST API that allows you to build applications where users can search for places and receive detailed information about selected places.
 
-What you'll need
 * a HERE Developer account from the AWS Marketplace for leveraging location APIs
 * an Amazon Web Services account to host your project code
 * an Amazon Alexa Developer account to configure your Alexa Skill

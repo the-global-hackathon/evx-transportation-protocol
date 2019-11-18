@@ -17,18 +17,18 @@
 
 ### Vue.js Dashboard - Maps & Statitics
 * Vue.js Dashboard, Maps & Location Services
-* * [Project in Vue.js using Here Maps](https://github.com/devfilipesales/Front-End-Test-for-Zetta)
-* * [HERE Maps API for Javascript Examples](https://github.com/heremaps/maps-api-for-javascript-examples)
+  * [Project in Vue.js using HERE Maps, Routing & Geocoder](https://github.com/devfilipesales/Front-End-Test-for-Zetta)
+  * [HERE Maps API for Javascript Examples](https://github.com/heremaps/maps-api-for-javascript-examples)
 
-### HERE - Location Services 
+### HERE - Location Services Documentation
 * Geocoder - https://developer.here.com/documentation/geocoder/dev_guide/topics/quick-start-geocode.html
 * Places - https://developer.here.com/documentation/places/dev_guide/topics/quick-start-find-text-string.html
 
-### JavaScript 
+### JavaScript API Developer Documentation
 * [HERE Javascript to API Development Documentation](https://developer.here.com/develop/javascript-api) 
 * [HERE Maps API for Javascript Examples -  Github](https://github.com/heremaps/maps-api-for-javascript-examples)
 
-#### Vue.js
+#### Vue.js Front End Framework
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 
 ### HERE Location Services
@@ -83,3 +83,10 @@ The Places (Search) API is a REST API that allows you to build applications wher
 - amzn1.ask.skill.74b4a3c1-eb8e-4558-9035-771fef754c2e
 
 ### Electric Vehicle Experience Score (EVXS)
+
+#### What is EVXS?
+
+* EVXS provides a system of scoring search results from HERE location services based upon the following
+   * Search results sorted by distance proximity from current location to routed locations 
+   * Result returns list of *electric charging stations* by order of proximity to current location
+   * Generate route between two locations & plotting coordinate markers on the map from current location within 10km

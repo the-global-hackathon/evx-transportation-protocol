@@ -1,9 +1,27 @@
 # evx-transportation-protocol
 
-## Electric Vehicle Experience - Project Details 
+## Electric Vehicle Experience - *EVX* Project Details 
 
 * Dynamically calculate the best electric charging station from current location
 * Display maps view, including map markers overlays with 10 km radius
+
+### Electric Vehicle Experience Score - *EVXS*
+
+#### What is EVXS?
+
+* EVXS provides a system of scoring search results from HERE location services based upon the following
+   * Search results sorted by distance proximity from current location to routed locations 
+   * Result returns list of *electric charging stations* by order of proximity to current location
+   * Generate route between two locations & plotting coordinate markers on the map from current location within 10km.
+     * Parse JSON request from HERE Places API by proximity, from current location.
+     * Parse data from IoT enabled vehicles to get battery life percentage.
+   
+#### What is the Transportation Protocol?
+
+  * Transportation Protocol 
+  * Advanced location based services from current GPS location
+  * Enable electric vehicles & autonomous vehicles to plan efficient routes.
+  * Improving user experience by recommending routes & destinations for electric vehicles.
 
 ### LA Auto Mobility Hackathon - Transportation Protocol
 - HERE - [*Location Services*](#vuejs-dashboard---here-maps--statitics)
@@ -85,23 +103,3 @@ The Places (Search) API is a REST API that allows you to build applications wher
 ### Amazon AWS Lambda
 * AWS Lambda Execution Role ARN
 - arn:aws:iam::599877411882:role/AlexaHostedSkillLambdaRole
-
-## Electric Vehicle Experience - *EVX*
-
-### Electric Vehicle Experience Score - *EVXS*
-
-#### What is EVXS?
-
-* EVXS provides a system of scoring search results from HERE location services based upon the following
-   * Search results sorted by distance proximity from current location to routed locations 
-   * Result returns list of *electric charging stations* by order of proximity to current location
-   * Generate route between two locations & plotting coordinate markers on the map from current location within 10km.
-     * Parse JSON request from HERE Places API by proximity, from current location.
-     * Parse data from IoT enabled vehicles to get battery life percentage.
-   
-#### What is the Transportation Protocol?
-
-  * Transportation Protocol 
-  * Advanced location based services from current GPS location
-  * Enable electric vehicles & autonomous vehicles to plan efficient routes.
-  * Improving user experience by recommending routes & destinations for electric vehicles.

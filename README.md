@@ -116,3 +116,188 @@ The Places (Search) API is a REST API that allows you to build applications wher
 
 ### Testing Custom Alexa Skills
 * [Alexa Developer Console - ASK Test](https://developer.amazon.com/alexa/console/ask/test/amzn1.ask.skill.74b4a3c1-eb8e-4558-9035-771fef754c2e/development/en_US/)
+
+```javascript
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "search for locations",
+            "intents": [
+                {
+                    "name": "ShowPlace",
+                    "slots": [
+                        {
+                            "name": "Show",
+                            "type": "ShowType"
+                        },
+                        {
+                            "name": "Place",
+                            "type": "AMAZON.US_CITY"
+                        },
+                        {
+                            "name": "Region",
+                            "type": "AMAZON.US_STATE"
+                        }
+                    ],
+                    "samples": [
+                        "{Show} {Place}",
+                        "{Show} me {Place}",
+                        "{Show} us {Place}",
+                        "{Show} {Place} {Region}",
+                        "{Show} me {Place} {Region}",
+                        "{Show} us {Place} {Region}"
+                    ]
+                },
+                {
+                    "name": "Zoom",
+                    "slots": [
+                        {
+                            "name": "ZoomBehavior",
+                            "type": "ZoomType"
+                        }
+                    ],
+                    "samples": [
+                        "Zoom {ZoomBehavior}"
+                    ]
+                },
+                {
+                    "name": "SearchIntent",
+                    "slots": [
+                        {
+                            "name": "Item",
+                            "type": "AMAZON.LocalBusiness"
+                        },
+                        {
+                            "name": "Location",
+                            "type": "AMAZON.AdministrativeArea"
+                        }
+                    ],
+                    "samples": [
+                        "show me nearby {Item} in {Location}",
+                        "show me {Item} in {Location}",
+                        "where is {Item} in {Location}",
+                        "find me {Item} near {Location}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                }
+            ],
+            "types": [
+                {
+                    "name": "ShowType",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "Show",
+                                "synonyms": [
+                                    "display",
+                                    "navigate to",
+                                    "bring up",
+                                    "go to",
+                                    "reveal",
+                                    "move to",
+                                    "go over to",
+                                    "move over to"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "ZoomType",
+                    "values": [
+                        {
+                            "id": "PLUS",
+                            "name": {
+                                "value": "In",
+                                "synonyms": [
+                                    "down",
+                                    "closer",
+                                    "near"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "MINUS",
+                            "name": {
+                                "value": "Out",
+                                "synonyms": [
+                                    "away",
+                                    "up",
+                                    "farther"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
+```

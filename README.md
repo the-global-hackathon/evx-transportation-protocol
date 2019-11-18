@@ -7,8 +7,8 @@
 
 ### LA Auto Mobility Hackathon - Transportation Protocol
 - HERE Location Services
-- Amazon - Alexa Skills Kit (ASK)
-- Amazon - AWS Lambda & IoT
+- Amazon - *Alexa Skills Kit (ASK)*
+- Amazon - *AWS Lambda & IoT*
 
 ## Technical Frameworks 
 
@@ -21,14 +21,15 @@
   * [HERE Maps API for Javascript Examples](https://github.com/heremaps/maps-api-for-javascript-examples)
 
 ### HERE - Location Services Documentation
+* Maps - https://developer.here.com/documentation/maps/dev_guide/topics/quick-start.html
 * Geocoder - https://developer.here.com/documentation/geocoder/dev_guide/topics/quick-start-geocode.html
 * Places - https://developer.here.com/documentation/places/dev_guide/topics/quick-start-find-text-string.html
 
-### JavaScript API Developer Documentation
+#### HERE - API Developer Documentation
 * [HERE Javascript to API Development Documentation](https://developer.here.com/develop/javascript-api) 
 * [HERE Maps API for Javascript Examples -  Github](https://github.com/heremaps/maps-api-for-javascript-examples)
 
-#### Vue.js Front End Framework
+#### Vue.js - HERE Map Documentation 
  * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)
 
 ### HERE Location Services

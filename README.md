@@ -6,7 +6,7 @@
 * Display maps view, including map markers overlays with 10 km radius
 
 ### LA Auto Mobility Hackathon - Transportation Protocol
-- HERE - *Location Services*
+- HERE - [*Location Services*](#HERE)
 - Amazon - *Alexa Skills Kit (ASK)*
 - Amazon - *AWS Lambda & IoT*
 

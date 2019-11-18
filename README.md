@@ -86,11 +86,22 @@ The Places (Search) API is a REST API that allows you to build applications wher
 * AWS Lambda Execution Role ARN
 - arn:aws:iam::599877411882:role/AlexaHostedSkillLambdaRole
 
-### Electric Vehicle Experience Score (EVXS)
+## Electric Vehicle Experience - *EVX*
+
+### Electric Vehicle Experience Score - *EVXS*
 
 #### What is EVXS?
 
 * EVXS provides a system of scoring search results from HERE location services based upon the following
    * Search results sorted by distance proximity from current location to routed locations 
    * Result returns list of *electric charging stations* by order of proximity to current location
-   * Generate route between two locations & plotting coordinate markers on the map from current location within 10km
+   * Generate route between two locations & plotting coordinate markers on the map from current location within 10km.
+     * Parse JSON request from HERE Places API by proximity, from current location.
+     * Parse data from IoT enabled vehicles to get battery life percentage.
+   
+#### What is the Transportation Protocol?
+
+  * Transportation Protocol 
+  * Advanced location based services from current GPS location
+  * Enable electric vehicles & autonomous vehicles to plan efficient routes.
+  * Improving user experience by recommending routes & destinations for electric vehicles.

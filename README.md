@@ -34,4 +34,4 @@
 #### React Native
 
 #### Vue.js
- * (https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)[Showing a HERE map with vue.js]
+ * [Showing a HERE map with vue.js](https://developer.here.com/blog/showing-a-here-map-with-the-vue.js-javascript-framework)

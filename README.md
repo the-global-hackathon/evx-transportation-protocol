@@ -60,7 +60,6 @@
     * https://www.here.com/products/tracking-positioning-solutions
     * https://www.here.com/products/traffic-solutions
     * https://www.here.com/products/mobility-solutions
-        * Connecting the mobility world
 
 #### HERE Maps API for Javascript
 These application credentials can be used to develop using the HERE Maps API for JavaScript (version 3.1 and higher) . You can generate up to two ApiKeys for authentication purposes and rotate them as required. Usage will be reported as one application.
